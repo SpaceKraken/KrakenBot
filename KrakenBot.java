@@ -13,7 +13,7 @@ public class KrakenBot extends PircBot {
             sendMessage(channel, sender + ": The time is now " + time);
         }
         if (message.equalsIgnoreCase("Kraken!")) {
-            sendMessage(channel, sender + ": Hello!");
+            sendMessage(channel, sender + "!");
         }
         if (message.equalsIgnoreCase("Hello KrakenBot")) {  
             sendMessage(channel, "Hello " + sender);
@@ -25,10 +25,11 @@ public class KrakenBot extends PircBot {
             sendMessage(channel, sender + ": Yes?");
         }
         if(message.equalsIgnoreCase("@help")){sendMessage(channel, sender + ": I'm PM'ing you a list of my commands.");
-        sendMessage(sender, "@time-Used to display time. @help-lists all commands.");}
+        sendMessage(sender, "@time-Used to display time. @help-lists all commands.
+        KrakenBot will respond if you call him and is capable of holding a very basic conversation");}
        }
-        if(message.equalsIgnoreCase("@Meet your maker, Krakenbot!")) {
-            sendMessage(channel, sender + ": Well, they are ususally on this chanell, so I will say Hi!");
+        if(message.equalsIgnoreCase("Meet your maker, Krakenbot!")) {
+            sendMessage(channel, sender + ": Well, they are ususally on this channel, so I will say hi!");
              
          }
        }
