@@ -20,7 +20,7 @@ public class KrakenBotMain {
         
         bot.joinChannel("#kspofficial");
         
-        bot.joinChannel("#kraken");
+        bot.joinChannel("#Kraken");
         
         
     }
