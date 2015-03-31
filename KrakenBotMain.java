@@ -13,12 +13,14 @@ public class KrakenBotMain {
         // Connect to the IRC server.
         bot.connect("irc.esper.net");
 
-        // Join the #pircbot channel.
+        // Join the channel.
         bot.joinChannel("#kspmodders");
         
         bot.joinChannel("#bottorture");
         
         bot.joinChannel("#kspofficial");
+        
+        bot.joinChannel("#kraken");
         
         
     }
