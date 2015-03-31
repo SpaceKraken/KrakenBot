@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KrakenBot()
+comment1.params=channel\ sender\ login\ hostname\ message
+comment1.target=void\ onMessage(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
