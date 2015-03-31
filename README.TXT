@@ -5,6 +5,4 @@ abilities.
 
 AUTHORS: Ethan Phillips, penguin1263, nsuarez19.
 
-This project is based of the premade IRC bot PircBot, and therefore, to avoid repercussions, we have licenced it under the
-Unlicence. This means that anybody can fork, sell, or whatever the fuck they want with it, but it would be nice to have some
-recognition.
+This project is based of the premade IRC bot PircBot, and therefore, to avoid repercussions, we will now state that PircBot is not our property, nor do we take credit for it. More information about PircBot can be found here: ww w.jibble.org/pircbot.php
