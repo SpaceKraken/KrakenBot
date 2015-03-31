@@ -26,9 +26,10 @@ public class KrakenBot extends PircBot {
         }
         if(message.equalsIgnoreCase("@help")){sendMessage(channel, sender + ": I'm PM'ing you a list of my commands.");
         sendMessage(sender, "@time-Used to display time. @help-lists all commands.");}
-       
-            
-        }
+       }
+         if(message.equalsIgnoreCase("@help")){sendMessage(channel, sender + ": I'm PM'ing you a list of my commands.");
+        sendMessage(sender, "@time-Used to display time. @help-lists all commands.");}
+       }
     }
 
 
