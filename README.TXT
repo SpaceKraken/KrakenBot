@@ -1,4 +1,4 @@
-KrakenBot Alpha v.0.1
+KrakenBot Alpha v.0.1.10
 
 KrakenBot is a specialized IRC bot meant to log a specific channel, and provide some interesting conversational and functional
 abilities.
